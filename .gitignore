@@ -1,6 +1,0 @@
-*.class
-*.log
-.idea
-.DS_Store
-build
-target
